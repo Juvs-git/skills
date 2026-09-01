@@ -1,0 +1,10 @@
+{
+  "name": "emil-design-skills",
+  "version": "0.1.0",
+  "description": "Animacao e design de interface por Emil Kowalski.",
+  "author": { "name": "Emil Kowalski" },
+  "homepage": "https://animations.dev/skills",
+  "repository": "https://github.com/emilkowalski/skills",
+  "license": "MIT",
+  "skills": "./skills/"
+}
