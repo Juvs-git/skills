@@ -9,9 +9,11 @@
   "plugins": [
     {
       "name": "emil-design-skills",
-      "description": "Animacao e design de interface: animate, review-animations, improve-animations, apple-design, prototype, pick-ui-library, ask-sonner e mais.",
+      "description": "Animacao e design de interface por Emil Kowalski: animate, review-animations, improve-animations, apple-design, prototype, pick-ui-library, ask-sonner e mais.",
       "version": "0.1.0",
       "source": ".",
+      "strict": false,
+      "skills": "./skills/",
       "category": "design",
       "author": { "name": "Emil Kowalski" },
       "homepage": "https://animations.dev/skills",
