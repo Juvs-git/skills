@@ -1,0 +1,13 @@
+{
+  "name": "emil-design-skills",
+  "description": "Animacao e design de interface: animate, review-animations, improve-animations, apple-design, prototype, pick-ui-library, ask-sonner e mais",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "email": ""
+  },
+  "homepage": "https://animations.dev/skills",
+  "repository": "https://github.com/emilkowalski/skills",
+  "license": "MIT",
+  "keywords": ["skills", "frontend", "design", "animation", "ui"]
+}
